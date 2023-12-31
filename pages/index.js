@@ -11,6 +11,7 @@ function Home() {
       <div>
         <button onClick={AdicionaContador}>Contador</button>
         <div>{contador}</div>
+        <div>Jéssica</div>
       </div>
     );
   }
