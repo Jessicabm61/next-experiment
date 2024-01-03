@@ -13,8 +13,8 @@ function Home() {
       <h1>Home</h1>
       <button onClick={AdicionaContador}>Contador</button>
       <div>{contador}</div>
-     <Link href="/Sobre">Pagina Sobre</Link>
-    
+     <Link href="/Sobre">Pagina Sobre</Link><br></br>
+     <Link href="/Tempo">Pagina Tempo</Link><br></br>    
     </div>
   );
 }
